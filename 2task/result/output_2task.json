@@ -1,0 +1,254 @@
+[
+  {
+    "id": "0128a3d9-aad9-4ffc-beb2-cf75dabff53a",
+    "name": "Armando al Pantheon",
+    "website": {
+      "String": "https://www.armandoalpantheon.it/en/",
+      "Valid": true
+    },
+    "coordinates": "POINT(12.4761819 41.8990581)",
+    "description": {
+      "String": "Serving traditional, authentic Roman cuisine since 1961.",
+      "Valid": true
+    },
+    "rating": 4.511440961937119
+  },
+  {
+    "id": "c19dde59-75e8-4ca3-a4d7-bb1a2503b8bf",
+    "name": "Er Faciolaro",
+    "website": {
+      "String": "http://www.erfaciolaro.it/",
+      "Valid": true
+    },
+    "coordinates": "POINT(12.4778539 41.89941499999999)",
+    "description": {
+      "String": "Er Faciolaro restaurant in Rome will make you taste excellent dishes of Roman cuisine, near the Pantheon. It offers its guests the authentic recipes of typical dishes of Roman cuisine, prepared with products of excellent quality.",
+      "Valid": true
+    },
+    "rating": 1.8910061970637315
+  },
+  {
+    "id": "676d69cf-5651-45ba-a30e-be01610acd83",
+    "name": "Maccheroni",
+    "website": {
+      "String": "http://www.ristorantemaccheroni.com",
+      "Valid": true
+    },
+    "coordinates": "POINT(12.4758356 41.9006118)",
+    "description": {
+      "String": "Since 1998 we offer only fresh, quality products that vary according to the seasons and specialties of Roman cuisine such as: Carbonara, Amatriciana, Cacio e pepe, Gricia, Saltimbocca alla romana, Abbacchio a scottadito",
+      "Valid": true
+    },
+    "rating": 8.101124288879724
+  },
+  {
+    "id": "bf972820-5848-480a-80ca-4cdffffd87cd",
+    "name": "Singer Palace Hotel",
+    "website": {
+      "String": "https://www.singerpalacehotel.com/?utm_source=google&utm_medium=organic&utm_campaign=knowledge-graph",
+      "Valid": true
+    },
+    "coordinates": "POINT(12.4811401 41.8989415)",
+    "description": {
+      "String": "Singer Palace Hotel in the heart of Rome among the major historical world’s attractions, this intimate and cozy hotel boasts a modern and unconventional luxurious design and furniture.",
+      "Valid": true
+    },
+    "rating": 6.026791125914848
+  },
+  {
+    "id": "d03be43b-5c21-4169-8d65-6a667b505a77",
+    "name": "Forno Campo de 'Fiori",
+    "website": {
+      "String": "http://www.fornocampodefiori.com",
+      "Valid": true
+    },
+    "coordinates": "POINT(12.4715634 41.8958558)",
+    "description": {
+      "String": "",
+      "Valid": false
+    },
+    "rating": 8.51508658076586
+  },
+  {
+    "id": "71741e9f-6eb1-482e-abb1-4811147563d7",
+    "name": "Roscioli Salumeria con Cucina",
+    "website": {
+      "String": "https://salumeriaroscioli.com/",
+      "Valid": true
+    },
+    "coordinates": "POINT(12.4742417 41.894256)",
+    "description": {
+      "String": "Deli and Restaurant in the heart of Rome",
+      "Valid": true
+    },
+    "rating": 1.7864033505756893
+  },
+  {
+    "id": "0cc7ee61-e689-4538-8083-feb794ddc4be",
+    "name": "Trattoria al Moro",
+    "website": {
+      "String": "http://www.ristorantealmororoma.com/",
+      "Valid": true
+    },
+    "coordinates": "POINT(12.4822028 41.9005611)",
+    "description": {
+      "String": "In Rome, a stone's throw from the Trevi Fountain , all the flavour of true Roman cuisine is released. A characteristic place, with outdoor tables, where you can savour dishes made with the authenticity of fresh and local ingredients.",
+      "Valid": true
+    },
+    "rating": 3.1626744406653273
+  },
+  {
+    "id": "5ad9e1fc-3788-465e-9ff8-3b2fbf5934bc",
+    "name": "Pierluigi",
+    "website": {
+      "String": "",
+      "Valid": false
+    },
+    "coordinates": "POINT(12.4686819 41.8967926)",
+    "description": {
+      "String": "",
+      "Valid": false
+    },
+    "rating": 9.550353444761974
+  },
+  {
+    "id": "5ab44625-e74f-4d41-9238-cd131e8d7671",
+    "name": "Zuma",
+    "website": {
+      "String": "https://zumarestaurant.com/locations/rome/",
+      "Valid": true
+    },
+    "coordinates": "POINT(12.4783225 41.90446479999999)",
+    "description": {
+      "String": "Featuring modern Japanese cuisine that is authentic but not traditional. The menu showcases a variety of dishes from its three kitchens: the main kitchen, the sushi counter and the robata grill.",
+      "Valid": true
+    },
+    "rating": 2.3422830253050364
+  },
+  {
+    "id": "e625af0c-7585-4dbd-bf81-348592ef6928",
+    "name": "Il Pagliaccio",
+    "website": {
+      "String": "http://www.ristoranteilpagliaccio.com/",
+      "Valid": true
+    },
+    "coordinates": "POINT(12.4674252 41.897889)",
+    "description": {
+      "String": "The food at Il Pagliaccio is refined, unique and unambiguous. There is enough creativity on the menu to last a lifetime.",
+      "Valid": true
+    },
+    "rating": 8.233910632063761
+  },
+  {
+    "id": "c81700b1-00eb-4cb7-a111-faa997dbadaa",
+    "name": "Per Me",
+    "website": {
+      "String": "https://www.giulioterrinoni.it/",
+      "Valid": true
+    },
+    "coordinates": "POINT(12.4675293 41.897325)",
+    "description": {
+      "String": "Per Me is the summary of professional and personal experiences by chef Giulio Terrinoni, dedicated to a new concept entirely created for the guest.",
+      "Valid": true
+    },
+    "rating": 1.4697852587671534
+  },
+  {
+    "id": "3e800e78-c53f-4032-948a-79e471f65fbe",
+    "name": "Fiaschetteria Beltramme",
+    "website": {
+      "String": "",
+      "Valid": false
+    },
+    "coordinates": "POINT(12.4793517 41.90606)",
+    "description": {
+      "String": "Italian restaurant based in Rome, Italy.",
+      "Valid": true
+    },
+    "rating": 9.608213708381115
+  },
+  {
+    "id": "15880fd5-c3db-46fa-9109-a8b49103b441",
+    "name": "La Capricciosa",
+    "website": {
+      "String": "",
+      "Valid": false
+    },
+    "coordinates": "POINT(12.4780508 41.9066273)",
+    "description": {
+      "String": "",
+      "Valid": false
+    },
+    "rating": 4.393857202563076
+  },
+  {
+    "id": "5521161c-ca06-4515-86d0-af8a88d74f85",
+    "name": "Taverna Trilussa",
+    "website": {
+      "String": "http://tavernatrilussa.com/",
+      "Valid": true
+    },
+    "coordinates": "POINT(12.4711785 41.89070170000001)",
+    "description": {
+      "String": "In business for more than 100 years and forward with the same enthusiasm",
+      "Valid": true
+    },
+    "rating": 1.818797303554014
+  },
+  {
+    "id": "9c89c8b9-899b-4bb4-a797-7d20fddf5b86",
+    "name": "Babington's Tea Room",
+    "website": {
+      "String": "http://www.babingtons.com/",
+      "Valid": true
+    },
+    "coordinates": "POINT(12.4823296 41.90606469999999)",
+    "description": {
+      "String": "Restaurant, Tea Room, Coffee and Tea shop belonging to the Historic Shops of Excellence in Rome and Italy. Restaurant, Tea Room, Cafè and Tea shop.",
+      "Valid": true
+    },
+    "rating": 1.523093199999721
+  },
+  {
+    "id": "c986435a-0c4b-4b3b-8451-9a99dd833827",
+    "name": "Hotel Dei Mellini",
+    "website": {
+      "String": "http://www.hotelmellini.com/",
+      "Valid": true
+    },
+    "coordinates": "POINT(12.4724487 41.90733669999999)",
+    "description": {
+      "String": "Superbly located, few minutes from Vatican and Spanish Steps, 80 spacious rooms, roof garden and a gym overlooking it, solarium, and much more to discover.",
+      "Valid": true
+    },
+    "rating": 2.7510216509483243
+  },
+  {
+    "id": "87c46bf3-b5a0-42b0-8317-f15fb93e0f21",
+    "name": "Casetta di Trastevere",
+    "website": {
+      "String": "http://www.casettaditrastevere.it/",
+      "Valid": true
+    },
+    "coordinates": "POINT(12.4702327 41.890382)",
+    "description": {
+      "String": "Enjoy real Roman cuisine in one of the most famous places in Trastevere. Let yourself be enveloped by the picturesque atmosphere and the warmth of our staff",
+      "Valid": true
+    },
+    "rating": 0.3506387612089057
+  },
+  {
+    "id": "f3bfcfed-68b9-432e-9877-dd7cac6e6c88",
+    "name": "Tonnarello",
+    "website": {
+      "String": "https://tonnarello.it/",
+      "Valid": true
+    },
+    "coordinates": "POINT(12.4693452 41.8898221)",
+    "description": {
+      "String": "We are in the heart of the Roman tradition, in the center of culture, in the point with the highest density of restaurants in the capital. For this we must be an excellence in our sector. We offer you Roman dishes at their best",
+      "Valid": true
+    },
+    "rating": 7.58774811964237
+  }
+]
